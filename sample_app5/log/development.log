@@ -252,3 +252,17 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 106ms (Views: 103.3ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-12-28 16:19:48 +0900
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3367.4ms)
+Completed 200 OK in 3710ms (Views: 3424.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-28 16:22:54 +0900
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 1855ms (Views: 1852.4ms)
+
+
